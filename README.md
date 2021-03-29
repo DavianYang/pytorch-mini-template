@@ -1,3 +1,3 @@
 # mini-template
 
-Template for my deep learning general project
+Base deep learning template for my mini-project
