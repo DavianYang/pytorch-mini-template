@@ -24,7 +24,7 @@ if __name__ == "__main__":
         url='https://github.com/DavianYang/mini-template',
         packages=find_packages(exclude=('cfg', 'tools', 'test')),
         license='MIT License',
-        setup_requires=['torch', 'numpy'],
+        setup_requires=['numpy'],
         tests_requires=['pytest'],
         install_requires=get_requirements()
     )
