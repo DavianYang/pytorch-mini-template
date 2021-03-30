@@ -3,8 +3,9 @@
 Base deep learning template for my mini-project
 
 # Content
-    - [Requirements](#Requirements)
-    - [Folder Structure](#Folder-Structure)
+
+- [Requirements](#Requirements)
+- [Folder Structure](#Folder-Structure)
 
 # Requirements
 - Python >= 3.5 (3.6 recommended)
