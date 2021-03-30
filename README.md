@@ -11,7 +11,7 @@ Base deep learning template for my mini-project
 # Folder Structure
 ```
 mini-template
-├── config.py - holds configuration for training
+├── config.py - holds configuration for model, training, evaluation
 ├── main
 │   ├── __init__.py
 │   ├── api.py - endpoints api of a trained model
