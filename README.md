@@ -1,4 +1,4 @@
-# mini-template
+# Mini-template
 
 Base deep learning template for my mini-project
 
