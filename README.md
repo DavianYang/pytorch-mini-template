@@ -3,8 +3,8 @@
 Base deep learning template for my mini-project
 
 # Requirements
-- Python >= 3.5 (3.6 recommended)
-- Pytorch >= 1.7.0 (1.6.0 Recommended)
+- Python >= 3.5
+- Pytorch >= 1.7.0
 - Ignite
 - Weight & Bias
 
